@@ -7,6 +7,8 @@ A16Z does not have an RSS feed for its blog. This is to crawl the web page, conv
 
 ## Docs
 
+[How do I make an RSS feed URL for a website?](https://www.quora.com/How-do-I-make-an-RSS-feed-URL-for-a-website-that-does-not-have-an-RSS-feed-URL)
+
 [PyPi guide for beautifulsoup4 package](https://pypi.org/project/beautifulsoup4/)
 
 [Python BeautifulSoup - find all class](https://www.geeksforgeeks.org/python-beautifulsoup-find-all-class/)
